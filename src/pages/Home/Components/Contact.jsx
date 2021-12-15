@@ -33,8 +33,8 @@ function Contact() {
           </h3>
         </div>
       </div> 
-      {/* <hr/>
-            <br/><br/> */}
+      <hr/>
+            <br/><br/>
     </div>
   );
 }
